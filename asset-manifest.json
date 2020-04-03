@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Toshi-Tabata/react_hangman/static/css/main.695de0d8.chunk.css",
+    "main.js": "/Toshi-Tabata/react_hangman/static/js/main.d3a0c097.chunk.js",
+    "main.js.map": "/Toshi-Tabata/react_hangman/static/js/main.d3a0c097.chunk.js.map",
+    "runtime-main.js": "/Toshi-Tabata/react_hangman/static/js/runtime-main.8fe7fbc1.js",
+    "runtime-main.js.map": "/Toshi-Tabata/react_hangman/static/js/runtime-main.8fe7fbc1.js.map",
+    "static/js/2.e071c157.chunk.js": "/Toshi-Tabata/react_hangman/static/js/2.e071c157.chunk.js",
+    "static/js/2.e071c157.chunk.js.map": "/Toshi-Tabata/react_hangman/static/js/2.e071c157.chunk.js.map",
+    "index.html": "/Toshi-Tabata/react_hangman/index.html",
+    "precache-manifest.fbef7b128eedcab4c12f311ab459b06f.js": "/Toshi-Tabata/react_hangman/precache-manifest.fbef7b128eedcab4c12f311ab459b06f.js",
+    "service-worker.js": "/Toshi-Tabata/react_hangman/service-worker.js",
+    "static/css/main.695de0d8.chunk.css.map": "/Toshi-Tabata/react_hangman/static/css/main.695de0d8.chunk.css.map",
+    "static/js/2.e071c157.chunk.js.LICENSE.txt": "/Toshi-Tabata/react_hangman/static/js/2.e071c157.chunk.js.LICENSE.txt",
+    "static/media/11.png": "/Toshi-Tabata/react_hangman/static/media/11.fc275907.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe7fbc1.js",
+    "static/js/2.e071c157.chunk.js",
+    "static/css/main.695de0d8.chunk.css",
+    "static/js/main.d3a0c097.chunk.js"
+  ]
+}
